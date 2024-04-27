@@ -1,1 +1,1 @@
-Perfil de uma Data Science
+Perfil de uma Cientista de Dados
